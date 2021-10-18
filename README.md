@@ -8,4 +8,4 @@ in each, there are some obstacles to avoid. Upon contact, the character will die
 in a single rewind action. After rewinding the player will continue playing from the moment they either stopped rewinding or from the point where player
 ran out of rewind time (the moment when the timer shows 0).
 
-In this repository I have included my C# scripts, the full game can be played here: https://users.aber.ac.uk/ewg2/CS32420/
+In this repository I have included my C# scripts.
